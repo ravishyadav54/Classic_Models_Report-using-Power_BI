@@ -9,15 +9,15 @@ KPIs Overview: Displays Total Sales ($9.6M), Total Profit ($3.83M), and Profit M
 
 Sales Insights:
 
-Sales distribution by product line (e.g., Classic Cars, Vintage Cars, Motorcycles)
+-Sales distribution by product line (e.g., Classic Cars, Vintage Cars, Motorcycles)
 
-Top-performing products by revenue
+-Top-performing products by revenue
 
 Order Analysis:
 
-Quantity ordered by product line and year (2003–2005)
+-Quantity ordered by product line and year (2003–2005)
 
-Year-over-year sales comparison
+-Year-over-year sales comparison
 
 Detailed Breakdown:
 
