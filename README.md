@@ -21,10 +21,12 @@ Order Analysis:
 
 Detailed Breakdown:
 
-Tabular view of sales, quantity, and profit by product line
+-Tabular view of sales, quantity, and profit by product line
+
 Interactive Filters:
 
-Filter by Employee, City, Country, Order Year, and Product Line
+-Filter by Employee, City, Country, Order Year, and Product Line
+
 🎯 Purpose
 
 The dashboard helps identify high-performing products, track sales trends, and support data-driven decision-making through interactive visualizations.
