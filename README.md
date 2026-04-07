@@ -5,6 +5,7 @@
 This Power BI dashboard provides an interactive analysis of the Classic Models dataset, focusing on sales performance, profitability, and product trends.
 
 🔍 Key Highlights
+
 KPIs Overview: Displays Total Sales ($9.6M), Total Profit ($3.83M), and Profit Margin (~39.8%)
 
 Sales Insights:
